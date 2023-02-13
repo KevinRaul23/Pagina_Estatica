@@ -1,3 +1,3 @@
 # Pagina_Estatica
-Primer pagina web estatita freelancer
-hola
+Primer pagina web estática freelancer
+
